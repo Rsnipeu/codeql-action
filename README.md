@@ -66,7 +66,7 @@ The following versions of the CodeQL Action are currently supported:
 - v4 (latest)
 - v3
 
-**Note:** CodeQL Action v2 is now deprecated and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v3 or v4. For more information, see the [changelog](CHANGELOG.md).
+**Note:** CodeQL Action v2 is now deprecated and is no longer updated or supported. For better performance, improved security, and new features, upgrade to v3 or v4. For more information, see the [v2 deprecation announcement](https://github.blog/changelog/2025-01-10-code-scanning-codeql-action-v2-is-now-deprecated/).
 
 ## Supported versions of the CodeQL Bundle on GitHub Enterprise Server
 
